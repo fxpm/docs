@@ -1,0 +1,18 @@
+title: 'FX Manager'
+description: 'The FX Manager documentation.'
+themeConfig:
+  nav:
+    - text: Home
+      link: /
+    - text: FX Manager
+      link: /manager/
+    - text: FXPM
+      link: /package/
+  lastUpdated: 'Last Updated'
+  serviceWorker:
+    updatePopup:
+      message: 'New content is available.'
+      buttonText: 'Refresh'
+  docsRepo: 'fxpm/docs'
+  editLinks: true
+  editLinkText: 'Help us improve this page!'
